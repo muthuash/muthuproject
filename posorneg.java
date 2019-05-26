@@ -15,7 +15,7 @@ class Ideone
 	if(n>0)
 	 System.out.println("Positive");
 	else if(n<0)
-	 System.out.println("Negative");
+	 System.out.println("negative");
 	else
 	 System.out.println("Zero");
 	}
